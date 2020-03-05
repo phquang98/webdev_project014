@@ -4,7 +4,7 @@ module.exports = {
   insertPragma: false,
   jsxBracketSameLine: false,
   jsxSingleQuote: false,
-  printWidth: 80,
+  printWidth: 120, // use this so that props in TS dont line break
   requirePragma: false,
   useTabs: false,
   proseWrap: "preserve",
