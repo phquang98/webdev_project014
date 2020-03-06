@@ -1,6 +1,5 @@
 import React, { FC } from "react";
-import Button from "@material-ui/core/Button";
-import Typography from "@material-ui/core/Typography";
+import { Button, Typography } from "@material-ui/core";
 import { makeStyles, createStyles, Theme } from "@material-ui/core/styles";
 import { AccessAlarm, Delete } from "@material-ui/icons";
 
